@@ -1,7 +1,7 @@
 Hello, Hola, Hallo, Привет!
 
 
-<h2>Favorite</h2>
+<h2>Favorite-</h2>
 
 
 | Language | Framework | Browser | Console |

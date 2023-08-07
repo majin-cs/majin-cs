@@ -2,8 +2,7 @@
 Hello, Hola, Hallo, Привет!
 <br>
 <br>
-<h2>Favorite-</h2>
-
+<h3>Best...</h3>
 
 | Framework | Browser | Console |
 | --- | --- | --- | 

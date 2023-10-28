@@ -1,4 +1,4 @@
-Hello, Hola, Hallo, Привет!
+Hello, Hola, Hallo!
 <!--
 **majin-cs/majin-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
